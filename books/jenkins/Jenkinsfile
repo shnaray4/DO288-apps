@@ -1,4 +1,4 @@
-ipipeline {
+pipeline {
     options {
         // set a timeout of 60 minutes for this pipeline
         timeout(time: 60, unit: 'MINUTES')
